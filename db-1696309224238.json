@@ -1,0 +1,57 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Grocery",
+      "image": "/images/item1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mobiles",
+      "image": "/images/item2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Fashion",
+      "image": "/images/item3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electronics",
+      "image": "/images/item4.jpg"
+    }
+  ],
+  "Carousels": [
+    {
+      "id": 1,
+      "image": "./src/images/Carousels1.jpg"
+    },
+    {
+      "id": 1,
+      "image": "./src/images/Carousels2.jpg"
+    },
+    {
+      "id": 1,
+      "image": "./src/images/Carousels3.jpg"
+    },
+    {
+      "id": 1,
+      "image": "./src/images/Carousels4.jpg"
+    },
+    {
+      "id": 1,
+      "image": "./src/images/Carousels5.jpg"
+    },
+    {
+      "id": 1,
+      "image": "./src/images/Carousels6.jpg"
+    },
+    {
+      "id": 1,
+      "image": "./src/images/Carousels7.jpg"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

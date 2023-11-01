@@ -1,0 +1,362 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Grocery",
+      "image": "/images/item1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Mobiles",
+      "image": "/images/item2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Beauty Products",
+      "image": "/images/item3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Electronics",
+      "image": "/images/item4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Appliances",
+      "image": "/images/item5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Toys",
+      "image": "/images/item6.jpg"
+    }
+  ],
+  "Carousels": [
+    {
+      "id": 1,
+      "image": "/images/Carousels1.jpg"
+    },
+    {
+      "id": 1,
+      "image": "/images/Carousels2.jpg"
+    },
+    {
+      "id": 1,
+      "image": "/images/Carousels3.jpg"
+    },
+    {
+      "id": 1,
+      "image": "/images/Carousels4.jpg"
+    },
+    {
+      "id": 1,
+      "image": "/images/Carousels5.jpg"
+    },
+    {
+      "id": 1,
+      "image": "/images/Carousels6.jpg"
+    },
+    {
+      "id": 1,
+      "image": "/images/Carousels7.jpg"
+    }
+  ],
+  "BestElectronics": [
+    {
+      "id": 1,
+      "title": "Wireless Mouse & Keyboard",
+      "image": "/images/ele1.jpg",
+      "price": 10000
+    },
+    {
+      "id": 2,
+      "title": "Top Mirrorless Camera",
+      "image": "/images/ele2.jpg",
+      "price": 10000
+    },
+    {
+      "id": 3,
+      "title": "Pendrive",
+      "image": "/images/ele3.jpg",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "title": "Monitors",
+      "image": "/images/ele4.jpg",
+      "price": 14000
+    },
+    {
+      "id": 5,
+      "title": "Projectors",
+      "image": "/images/ele5.jpg",
+      "price": 20000
+    },
+    {
+      "id": 5,
+      "title": "Printers",
+      "image": "/images/ele6.jpg",
+      "price": 18000
+    }
+  ],
+  "Grocery": [
+    {
+      "id": 1,
+      "image": "/images/gro1.jpg",
+      "price": 230,
+      "title": "Lizol Disinfectant Surface and Floor Cleaner Citrus  (2 x 625 ml)",
+      "dep": "Grocery"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Sample Product",
+      "price": 100,
+      "image": "/images/sample.jpg",
+      "category": "Grocery"
+    },
+    {
+      "id": 2,
+      "title": "Another Product",
+      "price": 150,
+      "image": "/images/another.jpg",
+      "category": "Electronics"
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "title": "a",
+      "price": "3",
+      "image": {},
+      "category": "Grocery",
+      "id": 7
+    }
+  ],
+  "Beauty": [
+    {
+      "id": 1,
+      "image": "/images/be1.jpg",
+      "price": 550,
+      "title": "Face Cream"
+    },
+    {
+      "id": 2,
+      "image": "/images/be2.jpg",
+      "price": "₹1250",
+      "title": "Papaya Fairness Cream"
+    },
+    {
+      "id": 3,
+      "image": "/images/be3.jpg",
+      "price": "₹350",
+      "title": "Indulekha Hair oil"
+    },
+    {
+      "id": 4,
+      "image": "/images/be4.jpg",
+      "price": "₹290",
+      "title": "Himalaya Anti Dandruff Shampoo"
+    },
+    {
+      "id": 5,
+      "image": "/images/be5.jpg",
+      "price": "₹150",
+      "title": "Charcoal Face Mask"
+    },
+    {
+      "id": 6,
+      "image": "/images/be6.jpg",
+      "price": "₹245",
+      "title": "Woow Face Wash"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "role": "admin",
+      "firstName": "Bhagya",
+      "lasttName": "sree",
+      "email": "admin@gmail.com",
+      "password": "admin"
+    },
+    {
+      "firstName": "Shivamika",
+      "role": "customer",
+      "lastName": "Renjith",
+      "email": "vami@gmail.com",
+      "password": "vami",
+      "id": 2
+    },
+    {
+      "firstName": "abi",
+      "lastName": "abi",
+      "email": "abi@gmail.com",
+      "password": "a",
+      "role": "customer",
+      "id": 3
+    },
+    {
+      "firstName": "a",
+      "lastName": "a",
+      "email": "a@gmail.com",
+      "password": "a",
+      "role": "customer",
+      "id": 4
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "password": "",
+      "role": "customer",
+      "id": 5
+    },
+    {
+      "firstName": "ss",
+      "lastName": "s",
+      "email": "sdsad@bfg.gt",
+      "password": "s",
+      "role": "customer",
+      "id": 6
+    },
+    {
+      "firstName": "b",
+      "lastName": "b",
+      "email": "b@gmail.com",
+      "password": "b",
+      "role": "customer",
+      "id": 7
+    },
+    {
+      "firstName": "bhanu",
+      "lastName": "chitra",
+      "email": "bhanu@gmail.com",
+      "password": "b",
+      "role": "customer",
+      "id": 8
+    },
+    {
+      "firstName": "e",
+      "lastName": "e",
+      "email": "e@gmail.com",
+      "password": "e",
+      "role": "customer",
+      "id": 9
+    },
+    {
+      "firstName": "x",
+      "lastName": "x",
+      "email": "x@gmail.com",
+      "password": "x",
+      "role": "customer",
+      "id": 10
+    },
+    {
+      "firstName": "c",
+      "lastName": "c",
+      "email": "c@gmail.com",
+      "password": "c",
+      "role": "customer",
+      "id": 11
+    },
+    {
+      "firstName": "n",
+      "lastName": "n",
+      "email": "n@gmail.com",
+      "password": "n",
+      "role": "customer",
+      "id": 12
+    },
+    {
+      "firstName": "t",
+      "lastName": "t",
+      "email": "t@gmail.com",
+      "password": "t",
+      "role": "customer",
+      "id": 13
+    },
+    {
+      "firstName": "u",
+      "lastName": "u",
+      "email": "u@gmail.com",
+      "password": "u",
+      "role": "customer",
+      "id": 14
+    },
+    {
+      "firstName": "r",
+      "lastName": "r",
+      "email": "r",
+      "password": "r",
+      "role": "customer",
+      "id": 15
+    },
+    {
+      "firstName": "reena",
+      "lastName": "r",
+      "email": "reena@gmail.com",
+      "password": "reena",
+      "role": "customer",
+      "id": 16
+    },
+    {
+      "firstName": "e",
+      "lastName": "e",
+      "email": "e",
+      "password": "e",
+      "role": "customer",
+      "id": 17
+    },
+    {
+      "firstName": "t",
+      "lastName": "t",
+      "email": "t",
+      "password": "t",
+      "role": "customer",
+      "id": 18
+    },
+    {
+      "firstName": "s",
+      "lastName": "s",
+      "email": "s",
+      "password": "s",
+      "role": "customer",
+      "id": 19
+    },
+    {
+      "firstName": "y",
+      "lastName": "y",
+      "email": "y",
+      "password": "y",
+      "role": "customer",
+      "id": 20
+    },
+    {
+      "firstName": "o",
+      "lastName": "o",
+      "email": "o",
+      "password": "o",
+      "role": "customer",
+      "id": 21
+    },
+    {
+      "firstName": "d",
+      "lastName": "d",
+      "email": "d",
+      "password": "d",
+      "role": "customer",
+      "id": 22
+    }
+  ]
+}
